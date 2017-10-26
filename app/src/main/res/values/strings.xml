@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visitor Tracking System</string>
+    <string name="visitorentry">Visitor Entry</string>
+    <string name="admin">Admin</string>
+    <string name="next">Next</string>
+    <string name="external_dir">GetSignature</string>
+</resources>
